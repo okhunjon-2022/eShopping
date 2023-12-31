@@ -22,12 +22,12 @@ function Navbar() {
         <Left>
           <Language>EN</Language>
           <SearchContainer>
-            <Input />
+            <Input placeholder="Search" />
             <SearchIcon styled={{color:'gray',fontSize:16}} />
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>Milliy-Market</Logo>
+          <Logo>Milliy Market</Logo>
         </Center>
         <Right>
           <MenuItem>REGISTER</MenuItem>
